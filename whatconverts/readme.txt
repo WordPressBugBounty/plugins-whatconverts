@@ -2,7 +2,7 @@
 Contributors: WhatConverts
 Tags: whatconverts, call tracking, analytics call tracking, goal tracking, form tracking, form metrics, form analytics, conversion optimization, CRO, adwords call tracking
 Requires at least: 3.0
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 1.0.7
 
 Enables WhatConverts on all pages.
